@@ -1,0 +1,16 @@
+.stopwatch_time{
+    display:flex;
+    margin-left:20px;
+    
+}
+
+.btn_time{
+    padding:15px 10px;
+    font-weight: bold;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+.inactive {
+  opacity: 0.6;
+}
